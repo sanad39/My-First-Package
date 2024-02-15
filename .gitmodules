@@ -1,0 +1,3 @@
+[submodule "My-First-Package"]
+	path = My-First-Package
+	url = git@github.com:sanad39/My-First-Package.git
